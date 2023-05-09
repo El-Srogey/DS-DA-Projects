@@ -4,7 +4,7 @@
 This repository contains a collection of data science and analysis projects that showcase my expertise in exploring and analyzing data to gain insights and solve real-world problems. These projects cover a wide range of topics, including public health, transportation safety, and business collaboration.
 
 ## <span style="color:green">Projects</span>
-### <span style="color:purple">1. Understanding the Impact of the COVID-19 Pandemic in Mexico</span>
+### <a href="https://github.com/El-Srogey/DS-DA-Projects/tree/main/Mexico" target="_blank">1. Understanding the Impact of the COVID-19 Pandemic in Mexico</span></a>
 In this project, I analyzed COVID-19 data from Mexico to gain insights into the impact of the pandemic on public health. The project involved data wrangling, exploratory data analysis, and modeling to predict the spread of the virus and identify factors that contribute to its transmission.
 
 ### <span style="color:purple">2. Reducing High-Fatality Accidents in the UK</span>
